@@ -1,6 +1,7 @@
 # cc17-webhooks
 CreatorCon SD 2017 - Webhooks lab
 
+https://github.com/CreatorCon17/CCW3954-WorkingWithWebhooks-Snippets
 
 https://requestb.in/15qfx5e1
 
